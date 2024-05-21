@@ -1,37 +1,26 @@
 {
   "project_info": {
-    "project_number": "883703584565",
-    "firebase_url": "https://augscan-a2e27.firebaseio.com",
-    "project_id": "augscan-a2e27",
-    "storage_bucket": "augscan-a2e27.appspot.com"
+    "project_number": "1028063882265",
+    "project_id": "invent-immos-989e7",
+    "storage_bucket": "invent-immos-989e7.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:883703584565:android:97706a6dee6ea6da74de7c",
+        "mobilesdk_app_id": "1:1028063882265:android:51dce4121b3d06b1f78e88",
         "android_client_info": {
-          "package_name": "com.example.admin.augscan"
+          "package_name": "com.inventimmos.app"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "883703584565-l85mcjfatasr4at0m4qur6gp200h1hks.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDRJ70IXPIGzJKcPeaEzBdcB2fW7ZAnkRU"
+          "current_key": "AIzaSyDGSOI_UXRbxRI1aonx4sQAW36z6xYh6Aw"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "883703584565-l85mcjfatasr4at0m4qur6gp200h1hks.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
